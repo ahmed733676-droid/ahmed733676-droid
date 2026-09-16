@@ -1,0 +1,22 @@
+{
+  "folders": [
+    { "name": "Risala — writes", "path": "../risala" },
+    { "name": "Auctor — checks", "path": "../auctor" },
+    { "name": "HQ-Grok — Nocturne", "path": "../HQ-Grok" },
+    { "name": "iris-hq — photo house", "path": "../iris-hq" },
+    { "name": "Talaat thesis", "path": "../mohamed-talaat-thesis" },
+    { "name": "Ear thesis", "path": "../ahmed-hassan-ear-thesis" },
+    { "name": "Deeb slides", "path": "../deeb-presentation" },
+    { "name": "Studio index", "path": "." }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/.git": true
+    }
+  },
+  "extensions": {
+    "recommendations": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+  }
+}
