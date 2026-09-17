@@ -2,7 +2,7 @@
 
 Prosthodontist. Faculty. Private tools and supervised theses.
 
-This profile repository is the **index**. It is not a product.
+This profile repository is the **index**. Cursor windows live in [studio](https://github.com/ahmed733676-droid/studio).
 
 ## Clinic (do not mix with the Grok house)
 
@@ -32,4 +32,6 @@ Hand-off: Risala Markdown → Auctor. Six-month numbers stay in Risala, not Educ
 
 ## Cursor
 
-Open [Ahmed-Studio.code-workspace](Ahmed-Studio.code-workspace) after cloning the clinic and house repos as sibling folders. Do not put Educator in the same window as Auctor or Risala while RPD is reserved.
+Hub: [studio](https://github.com/ahmed733676-droid/studio) — `CURSOR.md`, `Clinic.code-workspace`, `House.code-workspace`, `Theses.code-workspace`, `Ahmed-Studio.code-workspace`, `scripts/open-studio.sh`.
+
+On the phone, start a Cloud Agent on the **one** repo that matches the job. Do not open Educator.
