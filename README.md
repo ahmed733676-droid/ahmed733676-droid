@@ -1,37 +1,11 @@
 # Ahmed El Gamry
 
-Prosthodontist. Faculty. Private tools and supervised theses.
+Prosthodontist and dental faculty member. I build small tools for clinical teaching and practice.
 
-This profile repository is the **index**. Cursor windows live in [studio](https://github.com/ahmed733676-droid/studio).
+## Public projects
 
-## Clinic (do not mix with the Grok house)
-
-| Repo | Job | Open |
+| Project | What it does | Live |
 | --- | --- | --- |
-| [risala](https://github.com/ahmed733676-droid/risala) | Writes the thesis on this device. Results stay dashed. | Private |
-| [auctor](https://github.com/ahmed733676-droid/auctor) | Fingerprints the manuscript. Open-access literature only. | Private |
-| [educator](https://github.com/ahmed733676-droid/educator) | Teaches the clinic. RPD / rod — **leave alone**. | Private |
-| [educator-studio](https://github.com/ahmed733676-droid/educator-studio) | Hosted RPD bench. **Leave alone**. | Public |
+| [spot-the-implant](https://github.com/ahmed733676-droid/spot-the-implant) | Decision-support bench that ranks likely implant companies from a periapical X-ray. Not a medical device. | [spot-the-implant.vercel.app](https://spot-the-implant.vercel.app) |
 
-Hand-off: Risala Markdown → Auctor. Six-month numbers stay in Risala, not Educator.
-
-## Grok house (do not mix with clinic)
-
-| Repo | Job | Open |
-| --- | --- | --- |
-| [HQ-Grok](https://github.com/ahmed733676-droid/HQ-Grok) | Nocturne luxury floor. | Private |
-| [iris-hq](https://github.com/ahmed733676-droid/iris-hq) | Photo-house working copy. Keep private. | Private |
-
-## Supervised theses
-
-| Repo | Send / use | Stay closed |
-| --- | --- | --- |
-| [mohamed-talaat-thesis](https://github.com/ahmed733676-droid/mohamed-talaat-thesis) | `Thesis_Complete.docx` on `main` | Invented numbers; emailing the candidate |
-| [ahmed-hassan-ear-thesis](https://github.com/ahmed733676-droid/ahmed-hassan-ear-thesis) | Draft text only | Invented millimetres; making public |
-| [deeb-presentation](https://github.com/ahmed733676-droid/deeb-presentation) | `Thesis_Defense_ُ.pptx` on `main` | Invented redesign decks |
-
-## Cursor
-
-Hub: [studio](https://github.com/ahmed733676-droid/studio) — `CURSOR.md`, `Clinic.code-workspace`, `House.code-workspace`, `Theses.code-workspace`, `Ahmed-Studio.code-workspace`, `scripts/open-studio.sh`.
-
-On the phone, start a Cloud Agent on the **one** repo that matches the job. Do not open Educator.
+Other work (clinic software, supervised theses and research tools) is kept in private repositories.
